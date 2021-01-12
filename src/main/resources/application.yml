@@ -4,6 +4,7 @@ spring:
       server:
         git:
           uri: https://github.com/werty4777/config-repo
+          default-label: main
 server:
   port: 8888
 
